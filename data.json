@@ -1,0 +1,67 @@
+{
+  "229355524594991115": {
+    "totalTime": 6045763,
+    "joinTime": 1719172459405
+  },
+  "239057417311092736": {
+    "totalTime": 13392465,
+    "joinTime": 1719250070985,
+    "inVoiceChannel": true
+  },
+  "276775264690634752": {
+    "totalTime": 586982,
+    "joinTime": 1719250070990,
+    "inVoiceChannel": true
+  },
+  "277451276373983234": {
+    "totalTime": 6950564,
+    "joinTime": 1719250070968,
+    "inVoiceChannel": true
+  },
+  "303221276015722507": {
+    "totalTime": 9139791,
+    "joinTime": 1719252665465,
+    "inVoiceChannel": true
+  },
+  "385832008498151437": {
+    "totalTime": 6439432,
+    "joinTime": 1719250070973,
+    "inVoiceChannel": true
+  },
+  "416568489231515649": {
+    "totalTime": 8952912,
+    "joinTime": 1719252504586,
+    "inVoiceChannel": true
+  },
+  "443741813174435840": {
+    "totalTime": 2427870,
+    "joinTime": 1719252498872,
+    "inVoiceChannel": true
+  },
+  "184405311681986560": {
+    "totalTime": 4162554,
+    "joinTime": 1719172493569
+  },
+  "341195265694236674": {
+    "totalTime": 1287467,
+    "joinTime": 1719174421848
+  },
+  "348441278876352534": {
+    "totalTime": 3462348,
+    "joinTime": 1719179319004
+  },
+  "184008512970424320": {
+    "totalTime": 0,
+    "joinTime": 1719250070981,
+    "inVoiceChannel": true
+  },
+  "520945572572692502": {
+    "totalTime": 597395,
+    "joinTime": 1719247351375
+  },
+  "158143075066052608": {
+    "totalTime": 4503154,
+    "joinTime": 1719250070962,
+    "inVoiceChannel": false
+  }
+}
